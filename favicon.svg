@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs><clipPath id="front"><rect x="-30" y="0" width="60" height="20"/></clipPath></defs>
+  <g transform="translate(20 20) rotate(-17)">
+    <ellipse rx="16.5" ry="5.6" fill="none" stroke="#8e8a83" stroke-width="1.6"/>
+    <circle r="6.4" fill="#e8521f"/>
+    <ellipse rx="16.5" ry="5.6" fill="none" stroke="#8e8a83" stroke-width="1.6" clip-path="url(#front)"/>
+    <circle cx="14.2" cy="-2.9" r="2.4" fill="#1c1b19"/>
+  </g>
+</svg>
